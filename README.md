@@ -10,4 +10,5 @@
                  - 📱 <strong> Facebook  </strong>: https://www.facebook.com/sefiane.ouami.583/ <br />
                  - 📝 <strong> LinkedIn  </strong>: www.linkedin.com/in/sefiane-ouami <br />
 - ⚡ Fun fact: ... I still watching Mr Robot lol
+- ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
