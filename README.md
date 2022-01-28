@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sefiane-ouami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sefiane-ouami" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sefiane-ouami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sefiane-ouami" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sefiane-ouami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sefiane-ouami" height="30" width="40" /></a>
+<a href="https://twitter.com/sefiane_ouami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sefiane-ouami" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sefiane_ouami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sefiane-ouami" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sefiane_ouami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sefiane-ouami" height="30" width="40" /></a>
 <a href="https://fb.com/sefiane.ouami.583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sefiane ouami" height="30" width="40" /></a>
 <a href="https://instagram.com/sefiane_ouami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sefiane-ouami" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sefiane Info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sefiane info" height="30" width="40" /></a>
