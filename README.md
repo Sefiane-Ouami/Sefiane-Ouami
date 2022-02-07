@@ -15,7 +15,7 @@
 - 📫 How to reach me **www.linkedin.com/in/sefiane-ouami**
 
 - 📄 Know about my experiences [www.linkedin.com/in/sefiane-ouami](www.linkedin.com/in/sefiane-ouami)
-
+<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Ouami_Sefiane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sefiane-ouami" height="30" width="40" /></a>
