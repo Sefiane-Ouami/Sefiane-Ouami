@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm OUAMI SEFIANE</h1>
 <h3 align="center">A full-stack developer from Morocco</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sefaine-ouami&label=Profile%20views&color=0e75b6&style=flat" alt="sefaine-ouami" /> </p>
-<img src="https://github.com/Sefiane_Ouami/Sefiane_Ouami/profile-img.png" align="right" width="25%"/>
+<img src="https://github.com/Sefiane-Ouami/Sefiane-Ouami/blob/main/profile-img.png" align="right" width="25%"/>
 **I’m currently a student engineer in computer science at National School of Applied Sciences Tetouan Morocco**
 
 **and full-stack web developer  ,I enjoy building website using React js and Laravel and Bootsrap . I can help you to build your onw wesbite **
