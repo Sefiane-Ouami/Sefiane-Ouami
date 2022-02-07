@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm OUAMI SEFIANE</h1>
 <h3 align="center">A full-stack developer from Morocco</h3>
 <img src="https://github.com/Sefiane-Ouami/Sefiane-Ouami/blob/main/profile-img.png" align="right" width="25%"/>
-**I’m currently a student engineer in computer science at National School of Applied Sciences Tetouan Morocco**
-
-**and full-stack web developer  ,I enjoy building website using React js and Laravel and Bootsrap . I can help you to build your onw wesbite **
+<p align="left"><strong>I’m currently a student engineer in computer science at National School of Applied Sciences Tetouan Morocco
+and full-stack web developer  ,I enjoy building website using React js and Laravel and Bootsrap . I can help you to build your onw wesbite </strong></p>
 <h3 align="left">You can find me in : </h3>
 <p align="left">
 <a href="https://twitter.com/Ouami_Sefiane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sefiane-ouami" height="30" width="40" /></a>
