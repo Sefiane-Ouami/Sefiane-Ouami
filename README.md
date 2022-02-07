@@ -1,22 +1,13 @@
 <h1 align="center">Hi 👋, I'm OUAMI SEFIANE</h1>
-<h3 align="center">A computer science student and full-stack developer from Morocco</h3>
+<h3 align="center">A full-stack developer from Morocco</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefaine-ouami&label=Profile%20views&color=0e75b6&style=flat" alt="sefaine-ouami" /> </p>
+<img src="https://github.com/Sefiane_Ouami/Sefiane_Ouami/profile-img.png" align="right" width="25%"/>
+**I’m currently a student engineer in computer science at National School of Applied Sciences Tetouan Morocco**
 
-- 🔭 I’m currently **student engineer at National School of Applied Sciences**
-
-- 🌱 I’m currently learning **Laravel**
-
-- 👯 I’m looking to collaborate on **full-stack web projects**
-
-- 💬 Ask me about **react native react js**
-
-- 📫 How to reach me **www.linkedin.com/in/sefiane-ouami**
-
-- 📄 Know about my experiences [www.linkedin.com/in/sefiane-ouami](www.linkedin.com/in/sefiane-ouami)
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
-<h3 align="left">Connect with me:</h3>
+**and full-stack web developer  ,I enjoy building website using React js and Laravel and Bootsrap . I can help you to build your onw wesbite **
+<h3 align="left">You can find me in : </h3>
 <p align="left">
 <a href="https://twitter.com/Ouami_Sefiane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sefiane-ouami" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sefiane-ouami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sefiane-ouami" height="30" width="40" /></a>
